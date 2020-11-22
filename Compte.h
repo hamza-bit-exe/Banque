@@ -16,7 +16,7 @@ public:
 	double retirerArgent(double);
 	double deposerArgent(double);
 	void consulterSolde();
-	//il faut definir la fct transfererArgent
+
 
 
 
